@@ -1,2 +1,5 @@
 # S-Esad.github.io
-Hello World
+
+Esad Seferovic's personal website:
+
+- UNDER CONSTRUCTION -
