@@ -2,4 +2,4 @@
 
 Esad Seferovic's personal website:
 
-- UNDER CONSTRUCTION -
+Coming soon
