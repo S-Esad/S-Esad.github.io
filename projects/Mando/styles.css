@@ -1,0 +1,84 @@
+* {box-sizing:border-box;}
+
+body {background-color:black;
+	font-family:'Open Sans', arial, sans-serif;
+	color:#F2C49B;
+	padding:0;
+	margin:0;
+}
+
+#wrapper {width:1160px;
+	border:2px solid #F2C49B;
+	margin:auto;
+	padding:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:15px;
+	padding-right:20px;
+}
+
+header {background-image: url("mandalorian_banner.jpg");
+	height:271px;
+	background-size:cover;
+}
+
+nav {width:175px;
+	float:left;
+	margin-top:50px;
+}
+
+nav ul {padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+nav a {font-family:Alatsi, arial black, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	font-size:1.5rem;
+	padding-top:15px;
+	display:block;
+	text-decoration:none;
+	color:#F2C49B;
+}
+
+nav a:visited {color:#F2C49B;}
+
+nav a:hover {color:#484F41;}
+
+main {margin-left:175px;
+	margin-top:50px;
+}
+
+main img {
+	width:350px;
+	border-radius:15px;
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+
+h2 {font-family:Alatsi, sans-serif;
+	text-transform:uppercase;
+	font-size:2rem;
+	color:#484F41;
+}
+
+footer {clear:left;
+	padding-top:20px;
+}
+
+footer img {width:400px;
+	float:right;
+}
+
+h3 {margin-left:15px;
+}
+
+#clear {clear:both;}
+
+
+
+
+
+
